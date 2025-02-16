@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+gzip/
+*env/
+emnist.zip
+data/
+.DS_Store
